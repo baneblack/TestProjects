@@ -1,0 +1,14 @@
+Computer-Rollenspiel
+Setting: Touhou, Fantasywelt; Personen, Orte, Welt
+keine direkte Attributsverteilung, sondern indirekt durch die Anwendung von Aktionen
+Aktion beeinflusst 0/1 Fertigkeit, Fertigkeit beeinflusst eine Menge von Attributen (+-)
+Fertigkeitenupgrade kostet Punkte, die werden von nicht-verwandten Fertigkeiten abgezogen
+Vergesslichkeit zieht bei lange ungenutzten Fertigkeiten Punkte ab
+Fertigkeitenupgrade durch Aktionen, eine Aktion bringt X Prozentpunkte zum Erreichen der nächsten Stufe
+Aufwand steigt exponentiell an zum Erreichen der Stufen
+Aktionen kosten Mana- und Ausdauerpunkte
+
+
+Gesundheitspunkte
+Ausdauerpunkte - Körperliche Energie, hat Einfluss auf Manapunkte bei niedrigem Ausdauerpunktestand
+Manapunkte - Magiewirken, Feilschen
