@@ -1,0 +1,541 @@
+<e>
+Talent<e>
+	des Schatzsuchers
+	des Schwertbruders / der Klingenschwester
+	des Glücksritters
+</e>
+
+Tugend<e>
+	~Allgemein<e>
+		Der Wert einer Tugend stellt hierbei den Grad dar, wie stark der Charakter dieser Tugend entspricht.
+	</e>
+	Aufrichtigkeit<e>
+		+ Krafthöchstwert
+		+ Rüstungswert
+		+ Schicksal
+	</e>
+	Barmherzigkeit<e>
+		+ Wundresistenz
+		+ Fernkampfverteidigung
+		+ Kraftregeneration außerhalb des Kampfes
+	</e>
+	Disziplin<e>
+		+ Macht
+		+ Krankheitsresistenz
+		+ Nahkampf-Verteidigung
+	</e>
+	Ehre<e>
+		+ Giftresistenz
+		+ Verteidigung gegen Schatten
+		+ Vitalität
+	</e>
+	Eifer<e>
+		+ Krankenresistenz
+		+ Nahkampfverteidigung
+		+ Gfitresistenz
+	</e>
+	Einfühlungsvermögen<e>
+		+ Rüstungswert
+		+ Schicksal
+		+ Furchtresistenz
+	</e>
+	Entschlossenheit<e>
+		+ Beweglichkeit
+		+ Moralregeneration während des Kampfes
+		+ Moralhöchstwert
+	</e>
+	Geduld<e>
+		+ Kraftregeneration außerhalb des Kampfes
+		+ Wundenresistenz
+		+ Fernkampfverteidigung
+	</e>
+	Gerechtigkeit<e>
+		+ Moralregeneration während Kampf
+		+ Moralhöchstwert
+		+ Moralregeneration außerhalb des Kampfes
+	</e>
+	Gnade<e>
+		+ Kraftregeneration außerhalb des Kampfes
+		+ Taktische Verteidigung
+		+ Beweglichkeit
+	</e>
+	Idealismus<e>
+		+ Schicksal
+		+ Furchtresistenz
+		+ Wille
+	</e>
+	Loyalität<e>
+		+ Vitalität
+		+ Krafthöchstwert
+		+ Rüstungswert
+	</e>
+	Mitgefühl<e>
+		+ Fernkampfverteidigung
+		+ Kraftregeneration außerhalb des Kampfes
+		+ Taktische Verteidigung
+	</e>
+	Selbstvertrauen<e>
+		+ Furchtresistenz
+		+ Wille
+		+ Kraftregeneration außerhalb des Kampfes
+	</e>
+	Standhaftigkeit<e>
+		+ Moralregeneration außerhalb des Kampfes
+		+ Macht
+		+ Krankheitsresistenz
+	</e>
+	Tapferkeit<e>
+		+ Moralhöchstwert
+		+ Moralregeneration außerhalb des Kampfes
+		+ Macht
+	</e>
+	Toleranz<e>
+		+ Taktische Verteidigung
+		+ Beweglichkeit
+		+ Moralregeneration während des Kampfes
+	</e>
+	Treue<e>
+		+ Verteidigung gegen Schatten
+		+ Vitalität
+		+ Krafthöchstwert
+	</e>
+	Unschuld<e>
+		+ Nahkampfverteidigung
+		+ Giftresistenz
+		+ Verteidigung gegen Schatten
+	</e>
+	Weisheit<e>
+		+ Wille
+		+ Kraftregeneration außerhalb des Kampfes
+		+ Wundenresistenz
+	</e>
+</e>
+
+Attribute<e>
+	Kraft
+	Geschicklichkeit
+	Intelligenz
+	Ausdauer
+	Wahrnehmung
+	Geschwindigkeit
+	Regeneration
+	Glück
+</e>
+
+Fähigkeiten<e>
+</e>
+
+Fertigkeiten<e>
+	~Allgemein<e>
+	Fertigkeit bezeichnen im ~Allgemeinen einen erlernten oder erworbenen Anteil des Verhaltens. Der Begriff der Fertigkeit grenzt sich damit vom Begriff der Fähigkeit ab, die als Voraussetzung für die Realisierung einer Fertigkeit betrachtet wird. Können umfasst Fähigkeit und Fertigkeit. Fertigkeiten sind beispielsweise Klavierspielen, Lesen, Schreiben, Rechnen, Sprechen, Fußballspielen und ähnliches.
+	Um eine Fertigkeit zu lernen, muss man sie zunächst einmal kennen.
+	Ränge von Fertikgkeiten:<e>
+		Bekannt
+		Anwendbar
+		Einsetzbar
+		Geübt
+		Gemeistert
+	</e></e>
+	Schwertkampf
+	Beschwörungskunst
+	Trickzauberei (Illusionen)
+	Axtkampf
+	Bogenschießen
+	Schmieden
+	Verwaltung
+	Alchemie
+	Erste-Hilfe
+	Medizin
+	Diebstahl
+	Akrobatik
+	Schwimmen
+	Tauchen
+	Diplomatie
+	Druidentum
+	Theologie
+	Kartographie
+	Zeichenkunst
+	Xenologie
+	Bardenwissen
+	Backen
+	Forschung
+	Schriftenkunde
+	Mechanik
+	Jagdkunst
+	Spurensuche
+	Sicherheit (gegen Diebstahl)
+	Runengravur
+	Kochkunst
+	Handelskunst
+	Kürschnern
+	Lederverarbeitung
+	Maschinenbau
+	Musik
+	Archäologie
+	Meuchelkunst
+	Flugkunst
+	Agrarwirtschaft
+	Schamanismus
+	Führungskraft
+	Schiffsbau
+	Schneiderkunst
+	Eroberungskusnt
+	Gründer
+	Tierbändigung
+	Tischler
+	Bogenbau
+	Juwelenschleifen
+	Verzauberungskunst
+	Glyphenzeichner
+	Barbier
+	Tätowierung
+	Reitkunst
+	Zucht
+	Bergbau
+	Baukunst
+	Golemoire - Erschaffung von Golems
+</e>
+
+Bedürfnisse<e>
+	~Allgemein<e>
+		Bedürfnisse liegen zwischen 0 und 100 mit zwei Nachkommastellen
+	</e>
+	Schlaf
+	Hunger
+	Durst
+	Hygiene
+	Wissen
+	Spaß
+	Liebe
+</e>
+
+Emotionen<e>
+	Angst (fear)
+	Verzweiflung (despair)
+	Ärger (anger)
+	Wut (fury)
+	Freude (joy)
+	Trauer (grief)
+</e>
+
+Sternzeichen<e>
+	Ratte
+	Rind
+	Tiger
+	Hase
+	Drache
+	Schlange
+	Pferd
+	Reiher
+	Affe
+	Schildkröte
+	Hund
+	Schwein
+</e>
+
+Rasse<e>
+	Idee für eine Rasse<e>	
+		Mit fortgeschrittenem Alter verbessert sich der Körper eines Lebewesens, im Gegensatz zur Degeneration anderer Völker
+	</e>
+	Menschen<e>
+	</e>
+	Elfen<e>
+		+ Geschicklichkeit
+		+ Geschwindigkeit
+		- Kraft
+		- Regeneration
+	</e>
+	Orks<e>
+		+ Kraft
+		+ Ausdauer
+		- Geschwindigkeit
+		- Geschicklichkeit
+	</e>
+	Zwerge<e>
+		+ Kraft
+		+ Regeneration
+		- Geschicklichkeit
+		- Wahrnehmung
+	</e>
+	Trolle<e>
+		+ Regeneration
+		+ Geschicklichkeit
+		- Kraft
+		- Ausdauer
+	</e>
+	Skar (Katzenmenschen)<e>
+		+ Geschicklichkeit
+		+ Wahrnehmung
+		- Kraft
+		- Intelligenz
+	</e>
+	Gnome<e>
+		+ Intelligenz
+		+ Wahrnehmung
+		- Ausdauer
+		- Kraft
+	</e>
+	Goblin<e>
+	</e>
+	Asura (Guild Wars 2)<e>
+	</e>
+</e>
+
+Krankheiten<e>
+	Lykantrophie (Fera)
+	Bladismen (Vampir)
+	Werex (Echsenwesen)
+	Pestism (Untot)
+</e>
+
+Lebensabschnitt<e>
+	Kleinkind
+	Kind
+	Teenager
+	Junger Erwachsener
+	Erwachsener
+	Greis
+</e>
+
+Eigenschaften<e>
+	gute<e>
+		Gebildet<e>
+			+ Intelligenz
+		</e>
+		Ortskenntnis<e>
+		</e>
+		Schnelle Heilung<e>
+			+ Regeneration
+		</e>
+		Schutzgeist<e>
+			+ Resistenz
+		</e>
+		Richtungssinn<e>
+			+ Wahrnehmung
+		</e>
+		Lernfähig<e>
+		</e>
+		Kampfrausch<e>
+			+ Geschwindigkeit
+			+ Kraft
+			- Intelligenz
+		</e>
+		Adlerauge<e>
+			+ Wahrnehmung
+		</e>
+		Linkshänder<e>
+			+ Waffenboni
+		</e>
+		Gutes Gedächtnis<e>
+			+ Intelligenz
+		</e>
+		Glückspilz<e>
+			+ Glück
+		</e>
+		Resistenz gegenüber {Alter, Magie, Hitze, Gift}<e>
+			+ Resistenz
+		</e>
+		Tierfreund<e>
+			+ Tierbändigung
+			+ Zucht (Tier)
+		</e>
+		Ausdauernd<e>
+			+ Ausdauer
+		</e>
+		Affinität zu {Geistern, Elementaren, Dämonen}<e>
+			+ Wahrnehmung
+		</e>
+		Schatzsuchernase<e>
+		</e>
+		Vom Schicksal gezeichnet<e>
+		</e>
+	</e>
+	schlechte<e>
+		Albino
+		Lichtscheu
+		Medium
+		Angst vor {Insekten, Spinnen, Reptilien, Pelztieren, Feuer, Wasser, zu großer Höhe}
+		Impulsiv
+		Nachtblind
+		Pechvogel
+		Farbblind
+		Hitzeempfindlichkeit
+		Kälteempfindlichkeit
+		Trägheit
+		Blutdurst
+		Kurzatmig
+		Schlaflosigkeit
+		Verpflichtungen
+		Schlechte Regeneration
+		Wilde Magie
+		Schlafstörungen
+		Tollpatschig
+	</e>
+</e>
+
+Wesen<e>
+	Robust
+	Solo
+	Mutig
+	Hart
+	Frech
+	Kühn
+	Sanft
+	Locker
+	Pfiffig
+	Scheu
+	Hastig
+	Ernst
+	Froh
+	Naiv
+	Mäßig
+	Mild
+	Ruhig
+	Zaghaft
+	Hitzig
+	Still
+	Zart
+	Forsch
+	Sacht
+	Kauzig
+	Neugier
+</e>
+
+Ruf<e>
+	Hasserfüllt
+	Feindselig
+	Unfreundlich
+	Neutral
+	Wohlwollend
+	Freundlich
+	Wohlwollend
+	Respektvoll
+	Ehrfürchtig
+</e>
+
+Vorlieben<e>
+	~Allgemein<e>
+		Die Vorlieben bestimmten u.A., was dem Charakter Spaß macht. So kann es sein, dass der Charakter den Kampf liebt.
+		Dadurch erhält er einen höheren Spaßfaktor. 
+	</e>
+</e>
+
+Abneigungen<e>
+</e>
+
+Waffen<e>
+	Schadensart<e>
+		Elementar<e>
+			Feuer
+			Wind
+			Wasser
+			Erde
+			Elektro
+			Schatten
+			Licht
+		</e>
+		Physisch<e>
+			Gift
+			Stumpf
+			Klinge
+			Stich
+			Explosion
+			Säure
+		</e>
+	</e>
+	
+</e>
+
+
+
+Moral
+Kraft
+Macht
+Beweglichkeit
+Vitalität
+Wille
+Schicksal
+Kritisch
+Feuer
+Schatten
+Rüstung
+Blocken
+Ausweichen
+Parieren
+Furcht
+Wunde
+Krankheit
+Gift
+Nahkampf
+Fernkampf
+Wahrnehmung
+Regeneration
+Glück
+Geschwindigkeit
+
+
+
+Moral
+Die Moral ist das Ausmaß des Schadens, den der Charakter erleiden kann, bevor er im Kampf besiegt ist. 
+
+Kraft
+Die Kraft ist die innere Reserve. Sie wird benötigt, um Kampfhandlungen auszuführen.
+
+Macht
+Die Macht verbessert das Geschick, Angriffe mit einem Schild abzuwehren oder Schläge zu parieren und hebt das Schadensausmaß des eigenen Angriffs. Gleichzeitig wird Schaden, der dem Charakter zugefügt wird, verringert.
+
+Beweglichkeit
+Die Beweglichkeit hilft dem Charakter, Schlägen auszuweichen und sie zu parieren, und trägt zu dem Schaden bei, den er mit einer Langstreckenwaffe anrichtet. Gleichzeitig verringert sich das Risiko eines Fehlschlages. 
+
+Vitalität
+Die Vitalität erhöht den Höchstwert der Moral und die Fähigkeit, die Moral nach dem Kampf zu regenerieren. Darüber hinaus verringert sie das Ausmaß des Schadens, den der Charakter infolge anderer Ursachen als Waffen erleidet.
+
+Wille
+Der Wille beeinflusst, wie viel Kraft der Charakter nach dem Kampf wiederaufbaut, und erhöht seine Kraftreserven im allgemeinen.
+
+Schicksal
+Das Schicksal wirkt sich zum Vorteil im Kampf aus und beeinflusst, wie schnell der Charakter Kraft und Moral regenerieren kann, während er in einen Kampf verwickelt ist.
+
+Kritisch
+Prozentuale Chance, einen kritischen Schlag auszuführen.
+
+Feuer
+Die Rüstung wird den Schaden, der durch ein Feuer entsteht, um diesen Prozentsatz mildern.
+
+Allgemein
+Die Rüstung wird den allgemeinen Schaden, der entsteht, um diesen Prozentsatz verringern.
+
+Schatten
+Die Rüstung wird den Schatten-Schaden um diesen Prozentsatz mildern.
+
+Blocken
+Fähigkeit, einen Angriff abzublocken (setzt den Besitz eines Schildes voraus).
+Zu Beginn haben die Charaktere noch keinen Schild, deswegen auch noch keine Blocken-Werte.
+
+Ausweichen
+Prozentuale Chance, einem Angriff auszuweichen.
+
+Parieren
+Prozentuale Chance, einen Angriff zu parieren.
+
+Furcht
+Prozentuale Chance, Furcht-Effekten zu widerstehen. 
+
+Wunde
+Prozentuale Chance, den Auswirkungen von Verwundungen zu widerstehen. 
+
+Krankheit
+Prozentuale Chance, den Auswirkungen von Krankheiten zu widerstehen.
+
+Gift
+Prozentuale Chance, den Auswirkungen von Gift zu widerstehen. 
+
+Nahkampf
+Dies ist die relative Wirkung im Nahkampf. Bessere Waffen und größere Macht werden die Wirkung verbessern.
+
+Fernkampf
+Dies ist die relative Wirkung im Fernkampf. Bessere Waffen und eine gesteigerte Beweglichkeit werden die Wirkung verbessern. 
+
+
+</e>
+

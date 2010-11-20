@@ -1,0 +1,110 @@
+Künstliche Intelligenz
+	Suchen nach Lösungen bei Problemen
+		Problemformulierung
+	Planen und Erstellen von Aktionsfolgen zum Erreichen von Zielen
+		Zielformulierung
+	Schwarmverhalten
+		Schwarm ohne / mit Anführer
+	Definition von Aktionen
+		rein extern ( aus einer Datei einlesen )
+		mixed ( aus einer Datei in ein Headerfile konvertieren )
+		rein intern ( aus Headerfile einlesen )
+	Regelbasiertes System
+		WENN ... DANN ... SONST
+		Absolutes Verhalten
+	Wegfindung
+		Routing durch Wegfindungssystem
+	Handlungsschablonen
+	Wahrnehmung der Umgebung
+		Singleton-Klasse
+	Zustandsautomaten
+	Verhaltensprofile
+	Erkennen von Objekten
+		Event-Listener
+		wann immer die KI ein Objekt sieht, wird ein Event ausgelöst
+	Lernen durch Erfahrung
+		Einfügen neuer Regeln der Regel-Datenbank
+	Low Level KI
+		Wegfindung
+		Reaktives Verhalten
+
+	High Level KI
+		Handeln: autonom, flexibel, interaktiv
+		NPC: autonom, logisch, natürlich verhaltend
+Animation
+	Laden und Speichern von Animationsmodellen
+	Verbinden von Animationsmodelln mit Skins
+Physik
+	Ballistische Flugbahn
+	Federkräfte
+	Luftwiderstand
+	Soft-Bodies (Flaggen, Stoffkleidung)
+	Mechanik starrer Körper
+	Mechanik fester Körper
+	Elastizitätstheorie
+	Dynamik
+	Kinematik
+	Statik
+	Ballistik (Wund- und Zielballistik zb)
+	Thermodynamik
+	Festigkeitslehre
+Kollisionserkennung
+	Bounding Boxes
+	Kollisionsbehandlung
+Datenmanagement
+	Singleton-Klasse
+	Laden und Speichern von Dateien als Zip-Datei
+	Zustandsspeicherung
+	Laden und Speichern von
+		Bilddaten
+		Regel-Datenbanken (Business-Repository)
+		Soundfiles
+		XML
+Logging
+Tracing
+Licht
+Schatten
+	Schattenvolumen
+Texturierung
+	Darstellung von Materialien (allgemein) und Objekten (spezifische Zuweisung)
+Programmlogik
+Material
+	beeinflusst Berechnung von Objekten
+Szene
+	Bumpmapping
+Fehlererkennung
+	Singleton-Klasse
+Netzwerk
+2D-Techniken
+	Videowiedergabe
+	Textausgabe
+	Schriften
+Cache
+Konfiguration
+	Singleton-Klasse beinhaltet alle vorgenommmenen Einstellungen
+Reguläre Ausdrücke
+Sound
+	3D-Raumklang
+Sicherheit
+Umgebung
+	Wetter
+	Tageszeit
+
+
+
+
+
+Die noch zu entwickelnden Schnittstellenstandards sollen Bereiche wie 
+	Wegfindung ("pathfinding"), 
+	Steuerung, 
+	Entscheidungsbäume ("decision trees"), 
+	endliche Automaten ("finite state machines"), 
+	regelbasierte Systeme, 
+	zielorientierte Aktionsplanung ("goal-oriented action planning") und 
+	"world interfacing"
+abdecken. 
+
+Je höher der HP-Verbrauch am Tag liegt, desto höher ist der Schlafmangel. 
+zB:    Maximale HP-Verbrauch am Tag: 2700 AP (Ausdauerpunkte)
+   bisherige HP-Verbrauch des Tages: 2400 AP
+						Schlafmangel: 80%

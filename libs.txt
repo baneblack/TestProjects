@@ -1,0 +1,31 @@
+libpurple - Instant Messaging
+libgcrypt - Verschlüsselung, Hash
+liboauth - OAuth
+openal - Sound
+opengl - Grafik
+libassimp - Open Asset Import, Laden von 3D-Modellen
+(MCabber)
+twitcurl - Twitter
+fantasma - Client-Library für Facebook
+attica - Open Collaboration Services Library
+opendbx - Datenbankschnittstelle
+opencv - Bildverarbeitung
+zlib - Kompression
+libsigc++ - Signal Slot
+dbus - Interprozesskommunikation
+libxml2 - XML-Parser
+boehm - Automatische Speicherbereinigung
+featurec++ - Featureorientiertes Programmieren
+aspectc++ - Aspektorientiertes Programmieren
+ffmpeg - Video
+
+gl
+glu
+glut
+glew	
+al
+alut
+sdl
+boost
+boost::parameter
+openmp
