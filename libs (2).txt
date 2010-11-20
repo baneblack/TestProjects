@@ -1,0 +1,38 @@
+Bullet (3D-Physik)
+Open Dynamic Engine (3D-Physik)
+Box2D (2D-Physik)
+
+Boost
+POCO
+glibmm
+
+Cal3D (3DS-Modelle animieren)
+DevIL (Bilder)
+AssImp (3D-Modelle)
+
+Sound Object Library (Sound)
+OpenAL (3D-Sound)
+ffmpeg (Video, Audio)
+
+OpenCV (Maschinelles Sehen, Mustererkennung)
+
+Cairo (2D-Zeichenbibliothek)
+Pango (Fontrendering)
+
+ODB (ORM-System)
+Database Management Library (Integrierte Datenbank)
+
+OpenGL Math 
+libnoise
+
+cppunit
+google mock
+
+Botan (Kryptografie)
+
+OGRE (Grafik)
+Irrlicht (Grafik)
+
+libvirt (Virtualisierung)
+zlib (Kompression)
+lzma sdk (Kompression)
